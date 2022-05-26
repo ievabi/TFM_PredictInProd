@@ -1,0 +1,4 @@
+make: Entering directory `/Users/ievab/code/ievabi/TFM_PredictInProd'
+gcloud config set project XXX
+make: Leaving directory `/Users/ievab/code/ievabi/TFM_PredictInProd'
+ 
